@@ -1,6 +1,6 @@
 <!-- CABECERA CON BANNER / TÍTULO -->
 <h1 align="center">Hola, soy <strong>Charles Black</strong></h1>
-<h3 align="center"> Futuro Ingeniero en Software y Sistemas | DevOps &amp; Full-Stack Developer</h3>
+<h3 align="center">  Ingeniero en Software y Sistemas | DevOps &amp; Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cxrlosblxck&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="cxrlosblxck" />
@@ -93,9 +93,9 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
 
 ---
 
-### GitHub Achievements
+### Most Used Languages
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/?username=cxrlosblxck&theme=radical&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxrlosblxck&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 <br />
