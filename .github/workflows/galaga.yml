@@ -1,0 +1,26 @@
+name: Generate Galaga Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # cada medianoche
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generar Galaga Shooter
+        run: node galaga.js   # aquí corre tu script
+
+      - name: Publicar en rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
