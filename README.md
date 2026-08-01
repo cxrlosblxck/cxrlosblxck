@@ -16,7 +16,7 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
 - Actualmente estoy construyendo un homelab destinado a funcionar como servidor de hosting y VPS, además de correr modelos de inteligencia artificial y montar servicios como OpenClaw junto con otras automatizaciones.
 - Estoy abierto a colaborar en proyectos open-source, especialmente aquellos relacionados con infraestructura, automatización y desarrollo de software.
 - Domino la mayoría de los lenguajes de programación y utilizo Linux como entorno principal para profundizar en nuevas tecnologías y gestionar proyectos de manera eficiente.
-- Me apasiona experimentar: desde crear un cajero automático en Java hasta desplegar pipelines de CI/CD y servicios en la nube.
+- Me apasiona experimentar: desde crear apps en Java hasta desplegar pipelines de CI/CD y servicios en la nube.
 <br />
 
 <!-- HERRAMIENTAS Y TECNOLOGÍAS -->
