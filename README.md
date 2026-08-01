@@ -1,11 +1,32 @@
 <!-- CABECERA CON BANNER / TÍTULO -->
-<h1 align="center">Hola, soy <strong>Charles Black</strong></h1>
-<h3 align="center">  Ingeniero en Software y Sistemas | DevOps &amp; Full-Stack Developer</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cxrlosblxck&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="cxrlosblxck" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=48&duration=4000&pause=999999&color=C715FF&center=true&vCenter=true&width=900&hide_cursor=true&lines=Soy+Charles+Black"/>
 </p>
 
+<!-- SUBTÍTULO ESTILO TERMINAL -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=950&height=60&cursor=▋&lines=DevOps+Engineer;Full-Stack+Developer;Software+Architect;AI+Enthusiast" />
+</p>
+
+<!-- CONTACTO Y REDES SOCIALES -->
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:taveramonroy04@gmail.com">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" height="26" />
+        </a>
+        <code>taveramonroy04@gmail.com</code>
+      </td>
+      <td align="center" style="padding-left:40px;">
+        <a href="https://instagram.com/cxrlos.blxck">
+          <img src="https://cdn.simpleicons.org/instagram/E4405F" height="26" />
+        </a>
+        <code>@cxrlos.blxck</code>
+      </td>
+    </tr>
+  </table>
+</p>
 <br />
 
 <!-- PRESENTACIÓN -->
@@ -93,27 +114,13 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
 
 ---
 
-### ⭐ Featured Repo
+### Developer Overview 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxrlosblxck&repo=Descarga_Masiva_de_facturacion_CFDI_SAT&theme=radical&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cxrlosblxck&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cxrlosblxck&theme=radical"/>
 </p>
 <br />
 
-## Conéctate conmigo
-
-<p align="center">
-  <a href="https://www.instagram.com/cxrlos.blxck/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20@cxrlos.blxck-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:taveramonroy04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-taveramonroy04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br />
 
 <!-- FOOTER -->
 <p align="center">
