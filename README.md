@@ -93,9 +93,9 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
 
 ---
 
-### 📈 GitHub Activity Overview
+### ⭐ Featured Repo
 <p align="center">
-  <img src="https://github.com/cxrlosblxck/github-metrics/blob/main/github-metrics.svg" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cxrlosblxck&repo=Descarga_Masiva_de_facturacion_CFDI_SAT&theme=radical&hide_border=true" />
 </p>
 <br />
 
