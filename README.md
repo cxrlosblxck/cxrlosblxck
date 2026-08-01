@@ -95,7 +95,7 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
 
 ### ⭐ Featured Repo
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cxrlosblxck&repo=Descarga_Masiva_de_facturacion_CFDI_SAT&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxrlosblxck&repo=Descarga_Masiva_de_facturacion_CFDI_SAT&theme=radical&hide_border=true" />
 </p>
 <br />
 
