@@ -124,9 +124,9 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cxrlosblxck/cxrlosblxck/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/cxrlosblxck/cxrlosblxck/output/galaga.svg" alt="Galaga Shooter Animation" />
 </p>
+
 
 ---
 
- **¡Gracias por visitar mi perfil!** Si te gusta mi trabajo, no dudes en contactarme. 
