@@ -2,7 +2,7 @@ name: Generate Galaga Shooter
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # cada medianoche UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,7 +17,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'  # Forzamos Node 22 para evitar warnings
 
       - name: Generar Galaga SVG
         run: node galaga.js
@@ -28,4 +28,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "🎮 Actualizar Galaga SVG [skip ci]"
+          commit_message: "🎮 Galaga auto-update [skip ci]"
