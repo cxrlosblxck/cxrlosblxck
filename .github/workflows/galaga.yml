@@ -2,7 +2,7 @@ name: Generate Galaga Shooter
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # cada medianoche
+    - cron: "0 0 * * *"   # cada medianoche UTC
   workflow_dispatch:
 
 permissions:
@@ -12,15 +12,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Generar Galaga Shooter
-        run: node galaga.js   # aquí corre tu script
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generar Galaga SVG
+        run: node galaga.js
 
       - name: Publicar en rama output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "🎮 Actualizar Galaga SVG [skip ci]"
