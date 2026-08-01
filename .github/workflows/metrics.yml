@@ -1,7 +1,11 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}] # cada día a medianoche
+  schedule: [{cron: "0 0 * * *"}] # cada día a medianoche UTC
   workflow_dispatch:
+
+permissions:
+  contents: write  # 🔑 Permite al workflow escribir en tu repo
 
 jobs:
   github-metrics:
