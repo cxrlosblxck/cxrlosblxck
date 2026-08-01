@@ -93,11 +93,10 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
 
 ---
 
-### Most Used Languages
+### 📈 GitHub Activity Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxrlosblxck&layout=compact&hide_border=true&theme=radical" />
+  <img src="https://github.com/cxrlosblxck/github-metrics/blob/main/github-metrics.svg" />
 </p>
-
 <br />
 
 ## Conéctate conmigo
