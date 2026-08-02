@@ -114,11 +114,16 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
 
 ---
 
-### Developer Overview 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cxrlosblxck&theme=radical"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cxrlosblxck&theme=radical"/>
-</p>
+## Proyectos Destacados
+
+### [Descarga Masiva de Facturación CFDI SAT](https://github.com/cxrlosblxck/Descarga_Masiva_de_facturacion_CFDI_SAT)
+> Automatización para la descarga masiva de facturas (CFDI) desde el SAT utilizando la e.FIRMA (FIEL).  
+> **Tecnologías:** Python, SAT Web Services, Automatización de Procesos.
+
+### [SCAM](https://github.com/lamar2004/SCAM)
+>  proyecto interdisciplinario que busca automatizar procesos de secado y gestión de ventilación en entornos industriales simulados. para optimizar el control climático en bodegas o espacios de almacenamiento.
+> **Tecnologías:** JavaScript CSS HTML.
+
 <br />
 
 
