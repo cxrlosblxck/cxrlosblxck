@@ -5,7 +5,7 @@
 
 <!-- SUBTÍTULO ESTILO TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=950&height=60&cursor=▋&lines=DevOps+Engineer;Full-Stack+Developer;Software+Architect;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=950&height=60&cursor=▋&lines=Software+Engineer;DevOps+Engineer;Full-Stack+Developer;Software+Architect;AI+Enthusiast" />
 </p>
 
 <!-- CONTACTO Y REDES SOCIALES -->
