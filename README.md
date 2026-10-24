@@ -5,7 +5,7 @@
 
 <!-- SUBTÍTULO ESTILO TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=950&height=60&cursor=▋&lines=Software+Engineer;DevOps+Engineer;Full-Stack+Developer;Software+Architect;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=950&height=60&cursor=▋&lines=Software+Engineer;DevOps+Engineer;Full-Stack+Developer;Software+Architect;AI+Enthusiast;Cloud+Developer" />
 </p>
 
 <!-- CONTACTO Y REDES SOCIALES -->
@@ -23,6 +23,12 @@
           <img src="https://cdn.simpleicons.org/instagram/E4405F" height="26" />
         </a>
         <code>@cxrlos.blxck</code>
+      </td>
+      <td align="center" style="padding-left:40px;">
+        <a href="https://wa.me/525545068221">
+          <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="26" />
+        </a>
+        <code>5545068221</code>
       </td>
     </tr>
   </table>
@@ -86,6 +92,7 @@ Soy un desarrollador de software con enfoque en automatización, inteligencia ar
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ### Herramientas
